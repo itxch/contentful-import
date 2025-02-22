@@ -1,5 +1,5 @@
 {
-  "name": "contentful-import",
+  "name": "@itxch/contentful-import",
   "version": "0.0.0-determined-by-semantic-release",
   "description": "This tool allows you to import JSON dump exported by contentful-export",
   "type": "module",
