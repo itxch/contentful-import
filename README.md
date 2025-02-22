@@ -258,3 +258,4 @@ Read the [releases](https://github.com/contentful/contentful-import/releases) pa
 This project is licensed under MIT license
 
 [1]: https://www.contentful.com
+
